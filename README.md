@@ -1,1 +1,7 @@
-# toastmasters-churn
+# Toastmasters Club Churn Prediction
+Toastmasters is a non-profit organisation that provides a space for its members to learn public speaking and leadership skills through deliberate practice and constant feedback about this practice, under a structured development program. The Lisbon MBA Toastmasters Club is a Toastmasters club located in the Nova School of Business and Economics, in Carcavelos, Portugal.
+
+At each Toastmasters meeting, each member can perform one of a multitude of roles that allow them to enhance their leadership and public speaking skills. Meetings at the Lisbon MBA Toastmasters Club take place on Wednesdays, every two weeks. At each Toastmasters meeting, each member can perform one of a multitude of roles that allow them to enhance their leadership and public speaking skills. 
+For this development program to succeed, it is essential for the club to retain a minimum number of members in order to form an encouraging and dynamic learning environment in which members provide feedback to each other during their developmental process. It is therefore essential for the club to provide the conditions for members to remain committed to their learning journey.
+
+We gathered meeting data from current and past members of the Lisbon MBA Toastmasters Club and predicted whether they stayed or left the club. The dataset only includes meetings that occurred during the 2022/2023 season. Our dataset is small, so I have built many different classification models in order to capture insights that can be captured across different models.
